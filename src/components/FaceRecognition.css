@@ -1,0 +1,12 @@
+.face-box{
+    position: absolute;
+    border:1px solid blue;
+    top:0;
+}
+.face-container{
+    display:inline-block;
+    position:relative;
+}
+#input-image{
+    display:inline-block;
+}

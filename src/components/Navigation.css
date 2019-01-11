@@ -1,0 +1,11 @@
+nav{
+   color:white;
+   display:flex;
+}
+.content{
+    flex:40%;
+    justify-content: flex-end;
+}
+.logo{
+    flex:20%;
+}

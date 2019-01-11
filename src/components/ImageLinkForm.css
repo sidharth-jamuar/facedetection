@@ -1,0 +1,21 @@
+.container{
+    margin: 80px 400px 0px 400px;
+    z-index:10;
+}
+.info{
+    background:linear-gradient(to left,rgba(0,0,255,0),rgba(0,255,0,1));
+    color:white;
+}
+.box-content{
+    height:100px;
+    background:teal;
+}
+.field{
+    margin-top:20px;
+    width:80%;
+}
+.button{
+    margin-top:20px;
+    width:80%;
+    background-color: azure;
+}
